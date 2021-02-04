@@ -1,4 +1,4 @@
-#SetBright
+# SetBright
 
 Changes the brightness of the backlight
 
