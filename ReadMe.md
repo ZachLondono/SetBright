@@ -3,4 +3,8 @@
 Changes the brightness of the backlight
 
 ## Usage:
-setbright <ins>brightness<ins>
+Usage: setbright <brightness>
+  -h, --help	Print options\n"
+  -v		      Print current backlight brightness
+	-inc VAL	  Increment brightness
+	-dec VAL	  Decrement brightness
